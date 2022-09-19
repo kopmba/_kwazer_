@@ -11,3 +11,16 @@ The project contain demo :
 SQL file (MySql)
 Library app core to develop PHP app
 
+Connect with 4 accounts to simulate operation
+
+sportstore as producer
+jdoe as consumer
+kamdem as shipper
+wazer as connector
+
+Password : 'password'
+
+Load file SQL with database kwazer
+
+
+
